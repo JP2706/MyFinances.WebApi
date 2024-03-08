@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyFinances.WebApi.Models.Dtos
+namespace MyFinances.Core.Dtos
 {
     public class OperationDto
     {

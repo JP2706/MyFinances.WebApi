@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MyFinances.Core.Dtos;
+using MyFinances.Core.Response;
 using MyFinances.WebApi.Models;
 using MyFinances.WebApi.Models.Converters;
 using MyFinances.WebApi.Models.Domains;
-using MyFinances.WebApi.Models.Dtos;
-using MyFinances.WebApi.Models.Response;
 using System;
 using System.Collections.Generic;
 using System.Security.Cryptography.Xml;
